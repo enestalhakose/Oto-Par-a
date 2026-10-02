@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32952320/README.md)[Uploading README.# 🔧 OTOPARCA DEPO PRO
+  # 🔧 OTOPARCA DEPO PRO
 
 Oto yedek parça işletmeleri için geliştirdiğim **depo ve stok yönetimi** uygulaması. Tezgâhtaki satıştan rafın sayımına kadar parçaların depodaki yolculuğunu takip eder. Parçayı OEM numarası ya da araç bilgisiyle saniyeler içinde bulur ve hangi rafta olduğunu gösterir.
 
